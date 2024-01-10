@@ -1,6 +1,7 @@
+import 'package:book_1/Features/home/presentation/view/widget/details_view_body.dart';
 import 'package:flutter/material.dart';
 
-import '../widget/details_view_body.dart';
+
 
 class DetailsView extends StatelessWidget {
   const DetailsView({super.key});
